@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/css/main.719203a0.chunk.css",
+    "main.js": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/js/main.5f9a5b15.chunk.js",
+    "main.js.map": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/js/main.5f9a5b15.chunk.js.map",
+    "runtime-main.js": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/js/runtime-main.a74e9805.js",
+    "runtime-main.js.map": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/js/runtime-main.a74e9805.js.map",
+    "static/js/2.23500163.chunk.js": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/js/2.23500163.chunk.js",
+    "static/js/2.23500163.chunk.js.map": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/js/2.23500163.chunk.js.map",
+    "static/js/3.a1c025fc.chunk.js": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/js/3.a1c025fc.chunk.js",
+    "static/js/3.a1c025fc.chunk.js.map": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/js/3.a1c025fc.chunk.js.map",
+    "index.html": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/index.html",
+    "static/css/main.719203a0.chunk.css.map": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/css/main.719203a0.chunk.css.map",
+    "static/js/2.23500163.chunk.js.LICENSE.txt": "https://tomherman11.github.io/salary-yearly-monthly-hourly-converter/static/js/2.23500163.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a74e9805.js",
+    "static/js/2.23500163.chunk.js",
+    "static/css/main.719203a0.chunk.css",
+    "static/js/main.5f9a5b15.chunk.js"
+  ]
+}
