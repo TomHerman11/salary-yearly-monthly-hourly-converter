@@ -5,7 +5,7 @@ function Converter() {
   const MONTHS_A_YEAR = 12
 
   const [yearlySalary, setYearlySalary] = useState(120_000)
-  const [workdaysAYear, setWorkdaysAYear] = useState(250)
+  const [workdaysAYear, setWorkdaysAYear] = useState(260)
   const [workHoursADay, setWorkHoursADay] = useState(8)
 
 
