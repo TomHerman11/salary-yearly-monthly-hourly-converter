@@ -9,12 +9,14 @@ input[type=number] {
   outline: none;
   border: 5px solid #83ba63;
   background-color: #d4e7c9;
-  text-align: center; 
+  text-align: center;
+  margin-bottom: 5px;
 }
 
 h4 {
   font-weight: normal;
-  margin: 5px;
+  margin-top: 0;
+  margin-bottom: 5px;
   padding: 0;
 
 }
